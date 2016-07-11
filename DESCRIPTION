@@ -1,0 +1,14 @@
+Package: dcapps
+Type: Package
+Title: Apps for Teaching Hierarchical Models
+Version: 0.0-1
+Date: 2016-07-10
+Author: Peter Solymos
+Maintainer: Peter Solymos <solymos@ualberta.ca>
+Description: Functions used in teaching courses.
+License: GPL-2
+Depends: dclone, coda, MASS, rjags
+URL: https://github.com/datacloning/dcapps
+BugReports: https://github.com/datacloning/dcapps/issues
+LazyLoad: yes
+LazyData: true
