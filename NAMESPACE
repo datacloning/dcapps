@@ -1,1 +1,2 @@
-export(hfplot, xxplot)
+export(beta_prior, bimodal_prior,
+  data_cloning, distr, mle, normal_prior)
