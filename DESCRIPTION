@@ -7,7 +7,6 @@ Author: Peter Solymos
 Maintainer: Peter Solymos <solymos@ualberta.ca>
 Description: Functions used in teaching courses.
 License: GPL-2
-Depends: dclone, coda, MASS, rjags
 URL: https://github.com/datacloning/dcapps
 BugReports: https://github.com/datacloning/dcapps/issues
 LazyLoad: yes
